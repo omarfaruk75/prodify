@@ -1,0 +1,92 @@
+[
+    {
+        "productName": "Wireless Mouse",
+        "productImage": "https://example.com/images/wireless-mouse.jpg",
+        "description": "Ergonomic wireless mouse with adjustable DPI.",
+        "price": 29.99,
+        "category": "Electronics",
+        "ratings": 4.5,
+        "creationDateTime": "2024-08-16T10:00:00Z"
+    },
+    {
+        "productName": "Mechanical Keyboard",
+        "productImage": "https://example.com/images/mechanical-keyboard.jpg",
+        "description": "RGB backlit mechanical keyboard with customizable keys.",
+        "price": 79.99,
+        "category": "Electronics",
+        "ratings": 4.7,
+        "creationDateTime": "2024-08-16T10:05:00Z"
+    },
+    {
+        "productName": "Gaming Headset",
+        "productImage": "https://example.com/images/gaming-headset.jpg",
+        "description": "Surround sound gaming headset with noise-canceling mic.",
+        "price": 49.99,
+        "category": "Accessories",
+        "ratings": 4.6,
+        "creationDateTime": "2024-08-16T10:10:00Z"
+    },
+    {
+        "productName": "Smartphone",
+        "productImage": "https://example.com/images/smartphone.jpg",
+        "description": "Latest 5G smartphone with AMOLED display.",
+        "price": 699.99,
+        "category": "Electronics",
+        "ratings": 4.8,
+        "creationDateTime": "2024-08-16T10:15:00Z"
+    },
+    {
+        "productName": "Laptop Stand",
+        "productImage": "https://example.com/images/laptop-stand.jpg",
+        "description": "Adjustable aluminum laptop stand for better ergonomics.",
+        "price": 39.99,
+        "category": "Accessories",
+        "ratings": 4.4,
+        "creationDateTime": "2024-08-16T10:20:00Z"
+    },
+    {
+        "productName": "USB-C Hub",
+        "productImage": "https://example.com/images/usb-c-hub.jpg",
+        "description": "Multi-port USB-C hub with HDMI, USB 3.0, and SD card reader.",
+        "price": 24.99,
+        "category": "Accessories",
+        "ratings": 4.3,
+        "creationDateTime": "2024-08-16T10:25:00Z"
+    },
+    {
+        "productName": "Portable SSD",
+        "productImage": "https://example.com/images/portable-ssd.jpg",
+        "description": "1TB portable SSD with high-speed data transfer.",
+        "price": 129.99,
+        "category": "Storage",
+        "ratings": 4.9,
+        "creationDateTime": "2024-08-16T10:30:00Z"
+    },
+    {
+        "productName": "4K Monitor",
+        "productImage": "https://example.com/images/4k-monitor.jpg",
+        "description": "Ultra HD 4K monitor with HDR support.",
+        "price": 399.99,
+        "category": "Electronics",
+        "ratings": 4.7,
+        "creationDateTime": "2024-08-16T10:35:00Z"
+    },
+    {
+        "productName": "Bluetooth Speaker",
+        "productImage": "https://example.com/images/bluetooth-speaker.jpg",
+        "description": "Portable Bluetooth speaker with deep bass and 12-hour battery life.",
+        "price": 59.99,
+        "category": "Audio",
+        "ratings": 4.5,
+        "creationDateTime": "2024-08-16T10:40:00Z"
+    },
+    {
+        "productName": "Smartwatch",
+        "productImage": "https://example.com/images/smartwatch.jpg",
+        "description": "Smartwatch with heart rate monitor and GPS tracking.",
+        "price": 199.99,
+        "category": "Wearables",
+        "ratings": 4.6,
+        "creationDateTime": "2024-08-16T10:45:00Z"
+    }
+]

@@ -1,5 +1,5 @@
 import AllProducts from "../components/AllProducts";
-import Categories from "../components/Categories";
+
 
 
 const Home = () => {

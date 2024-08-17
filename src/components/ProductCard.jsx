@@ -6,7 +6,7 @@ const ProductCard = ({ product }) => {
             <div className="flex flex-col bg-base-100  shadow-2xl py-6 h[304px]">
                 <figure className="px-10  flex-1">
                     <img
-                        src="https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.webp"
+                        src={productImage}
                         alt="Shoes"
                         className="rounded-xl" />
                 </figure>

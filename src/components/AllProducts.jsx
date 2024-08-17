@@ -72,9 +72,9 @@ const AllProducts = () => {
                             <option value=''>Filter By Category</option>
                             <option value="Electronics">Electronics</option>
                             <option value="Accessories">Accessories</option>
-                            <option value="Storage">Storage</option>
+                            <option value="Watch">Watch</option>
                             <option value="Audio">Audio</option>
-                            <option value="Wearables">Wearables</option>
+                            <option value="Dress">Dress</option>
                         </select>
                     </div>
 

@@ -113,7 +113,7 @@ const AddProduct = () => {
                         </div>
                         <div className="form-control w-full my-6">
                             <label className="label">
-                                <span className="label-text">Product Brnad*</span>
+                                <span className="label-text">Product Brand*</span>
                             </label>
                             <input
                                 type="text"

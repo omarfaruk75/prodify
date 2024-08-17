@@ -1,12 +1,13 @@
 
 const ProductCard = ({ product }) => {
-    const { productName, productImage, description, brand, price, category, ratings, creationDateTime } = product;
+    const { productName, image, description, brand, price, category, ratings, creationDateTime } = product;
+
     return (
         <div className="my-2">
             <div className="flex flex-col bg-base-100  shadow-2xl py-6 h[304px]">
                 <figure className="px-10  flex-1">
                     <img
-                        src={productImage}
+                        src={image}
                         alt="Shoes"
                         className="rounded-xl" />
                 </figure>

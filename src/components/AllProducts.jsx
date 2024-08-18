@@ -59,7 +59,7 @@ const AllProducts = () => {
 
 
             <div>
-                <div className='flex flex-col md:flex-row justify-center items-center gap-5 '>
+                <div className='flex flex-col md:flex-row justify-center items-center gap-4 '>
                     <div>
                         <select
                             onChange={e => setFilter(e.target.value)}
@@ -117,7 +117,7 @@ const AllProducts = () => {
                     {/* {jobs.map(job => (
             <JobCard key={job._id} job={job} />
           ))} */}</div>
-            <div className='grid grid-cols-1 gap-4 mt-8 shadow-xl xl:mt-16 md:grid-cols-2 lg:grid-cols-3'>
+            <div className='grid grid-cols-1 gap-4 mt-4 shadow-xl xl:mt-8 md:grid-cols-2 lg:grid-cols-3'>
                 {products.map(product => (
                     <ProductCard key={product._id} product={product} />
                 ))}
